@@ -3,8 +3,6 @@ Hosting a simple interest calculator script on GitHub, creating a README, licens
 
 ## Simple Interest Calculator
 
-This repository contains a simple shell script that calculates simple interest based on user input. It is part of a certification project demonstrating version control, licensing, and open-source contribution standards.
-
 **Features**
 - Takes principal, rate, and time as input
 - Outputs simple interest using the formula: `SI = (P × R × T) / 100`
