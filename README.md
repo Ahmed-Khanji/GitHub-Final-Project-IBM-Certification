@@ -8,12 +8,12 @@ Hosting a simple interest calculator script on GitHub, creating a README, licens
 - Outputs simple interest using the formula: `SI = (P × R × T) / 100`
 - Shell script written for educational use only
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+Input:  
+   p, principal amount  
+   t, time period in years  
+   r, annual rate of interest  
+Output  
+   simple interest = p*t*r  
 
 **Usage**  
 
