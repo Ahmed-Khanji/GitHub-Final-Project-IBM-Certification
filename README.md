@@ -1,7 +1,7 @@
 # GitHub-Final-Project-IBM-Certification
 Hosting a simple interest calculator script on GitHub, creating a README, license, code of conduct, and contribution guidelines, and applying open-source best practices using Apache License 2.0.
 
-# Simple Interest Calculator
+## Simple Interest Calculator
 
 This repository contains a simple shell script that calculates simple interest based on user input. It is part of a certification project demonstrating version control, licensing, and open-source contribution standards.
 
